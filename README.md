@@ -8,7 +8,7 @@ We are meeting W. Avy utilizing the same climate analysis jupyter notebook file 
 
 June temperature descriptive statistics:
 
-
+![](Resources/June_Rain_Statistics.PNG)
 
 December temperature descriptive statistics:
 
