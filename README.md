@@ -12,7 +12,7 @@ June temperature descriptive statistics:
 
 December temperature descriptive statistics:
 
-
+![](Resources/December_Rain_Statistics.PNG)
 
 As we compare the two tables representing the descriptive statistics of the months of June and December, we observe:
 1. The average temperature between the two months is roughly similar with June showing an average of 75 degrees and December showing an average of 71 degrees thus signifying both are warm months despite being in different seasons.
